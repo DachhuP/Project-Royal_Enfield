@@ -1,0 +1,61 @@
+body{
+    background-color: black;
+color: white;
+margin: 0;
+padding: 0;
+}
+.th2{
+    border: 2px solid white;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(img1.jpg);
+}
+.rep{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    word-spacing: 4px;
+    text-transform: capitalize;
+}
+.re1{
+font-family: Broadway;
+}
+.img:hover{
+    height: 340px;
+    width: 440px;
+    border: 3px ridge silver;
+}
+.lis1{
+       display: inline;
+       font-size: 18px;
+       padding:5px
+}
+.fon:hover{
+    border: tomat 2px solid;
+    color: tomato;
+}
+.acc5{
+    font-size: 25px;
+    color:rgb(32, 17, 17);
+}
+.acc6:hover{
+    border: 4px ridge silver;
+    height: 380px;
+    width: 380px;
+}
+
+
+.foot3{
+    display: inline;
+    margin: 10px;
+}
+.foot4{
+    text-decoration: none;
+}
+.card-body{
+    background-color: black;
+}
+.row{
+    margin: 30px;
+}
+.card-img-top:hover{
+    border: 5px ridge grey;
+    transition: 0.7s ease;
+}
